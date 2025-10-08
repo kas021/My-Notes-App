@@ -1,7 +1,7 @@
 # QuickNotes
 A simple notes app built with React. Stores notes locally in your browser.
 
-![QuickNotes Screenshot](https://raw.githubusercontent.com/kas021/My-Notes-App/main/screenshot.png)
+![QuickNotes Icon](https://raw.githubusercontent.com/kas021/My-Notes-App/main/icon.png)
 
 ---
 
