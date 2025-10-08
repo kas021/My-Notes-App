@@ -1,0 +1,5 @@
+{
+  "name": "QuickNotes App",
+  "description": "A simple and beautiful notes application built with React and Tailwind CSS. It saves your notes directly in your browser's local storage.",
+  "requestFramePermissions": []
+}
